@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>আমার প্রথম ওয়েবসাইট</title>
+</head>
+
+<body style="background-color: lightblue; text-align: center; font-family: Arial;">
+
+    <h1>আসসালামু আলাইকুম</h1>
+
+    <p>এটা আমার জীবনের প্রথম ওয়েবসাইট 😊</p>
+
+    <!-- ছবি -->
+    <img src="myphoto.jpg" width="200" alt="My Photo">
+
+    <br><br>
+
+    <!-- বাটন -->
+    <button 
+        onclick="alert('ধন্যবাদ! আমার ওয়েবসাইট ভিজিট করার জন্য 😊')"
+        style="
+            background-color: green;
+            color: white;
+            padding: 12px 25px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8
